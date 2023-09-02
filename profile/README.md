@@ -20,12 +20,6 @@ The Software Engineering Career Club (SWECC) is a student-led organization at th
 -   [Interview Prep][interview-url] 🤝
 -   [Tools & Career Guides][misc-url] 💼
 
-## Contributors
-
-<a href="https://github.com/swecc-uw/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=swecc-uw/.github" />
-</a>
-
 [swecc-shield]: https://img.shields.io/badge/SWECC.ORG-%238d3ac5?style=for-the-badge
 [swecc-url]: https://swecc.org/
 [email-shield]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
