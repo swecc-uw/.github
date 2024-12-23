@@ -6,7 +6,6 @@
 [![][linkedin-shield]][linkedin-url]
 [![][email-shield]][email-url]
 
-### Welcome to the repository for the Software Engineering Career Club (SWECC)!
 
 ## About SWECC 🎓🧑‍💻
 
